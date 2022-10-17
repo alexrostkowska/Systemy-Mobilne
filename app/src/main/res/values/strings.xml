@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz_AR</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Kolejne Pytanie</string>
+    <string name="q_sat_testing">Czy SAT oznacza System Acceptance Testing?</string>
+    <string name="q_react">Czy React jest językiem programowania?</string>
+    <string name="q_python">Czy Python jest językiem skryptowym?</string>
+    <string name="q_Playwright">Czy playwright od zawsze był rozwijany przez Microsoft?</string>
+    <string name="q_testing">Pracując nad nową funkcjonalnością, wykonuje się smoke testy?</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+</resources>
