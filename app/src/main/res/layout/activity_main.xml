@@ -49,4 +49,10 @@
             android:text="@string/button_next" />
     </LinearLayout>
 
+    <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_prompt" />
+
 </LinearLayout>
